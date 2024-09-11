@@ -1,1 +1,5 @@
-![Açıklama](diagram.png)
+#E-COMMERCE SPRİNG BOOT PROJECT
+
+## DATABASE DİAGRAM
+![Diagram](diagram.png)
+
